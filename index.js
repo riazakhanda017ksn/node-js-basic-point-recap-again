@@ -74,6 +74,8 @@
 // const name = pokemon.languages;
 // console.log(name);
 
+////own server create
+
 const http = require("http");
 const fs = require("fs");
 const PORT = 5000;
